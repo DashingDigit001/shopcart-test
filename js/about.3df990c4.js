@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var o=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},r=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("結帳結束")])])}],s={props:{msg:String},mounted:function(){console.log(this.$router),console.log(this.$router.query)}},u=s,l=n("2877"),c=Object(l["a"])(u,o,r,!1,null,null,null);e["default"]=c.exports}}]);
+//# sourceMappingURL=about.3df990c4.js.map
